@@ -37,6 +37,7 @@ end
 
 # Define your play method below
 def play(board)
-  loop turn
+  loop do
+    turn
   end
 end
